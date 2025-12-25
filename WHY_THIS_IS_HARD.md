@@ -1,0 +1,5 @@
+- PS1 games are not deterministic
+- No rollback on real hardware
+- Controller timing is strict
+- Network jitter breaks illusion
+- This is an experiment, not a promise
