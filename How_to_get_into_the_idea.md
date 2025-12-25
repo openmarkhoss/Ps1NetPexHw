@@ -1,7 +1,4 @@
-WHY_THIS_IS_NOT_A_WASTE_OF_TIME_TO_WORK_ON.md
-=
-
-* Additional Reasons This Is Hard (And Why It Matters)
+Additional Reasons Why This Is Hard (And Why It Matters)
 
 * Network reality is not uniform
 * Most modern netplay solutions quietly assume:
