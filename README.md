@@ -20,4 +20,7 @@ A small device that sits between PS1 controllers and the console, timestamps inp
 Because PS1 netplay has been wanted since 1994, and no one seriously explored real-hardware, time-aligned input mediation.
 
 ## Status
-Early concept. Looking for contributors in firmware, hardware, and testing.
+Early concept.
+Looking for contributors in firmware, hardware, and testing.
+
+![Ps1NetPexHw hardware concept](images/ps1netpexhw_hardware_concept_v0.png)
